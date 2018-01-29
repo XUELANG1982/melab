@@ -11,6 +11,7 @@ void op()
             sum=j*i;
             cout<<sum<<endl;
         }
+        cout<<sum<<endl;
     }
 }
 int main()
